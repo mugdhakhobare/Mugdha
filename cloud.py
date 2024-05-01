@@ -1,2 +1,2 @@
 print(Hello)
-This Is the  Assignment of CC.
+Assignment of CC.
